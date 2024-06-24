@@ -1,0 +1,50 @@
+[
+    {
+        "image": "/images/netflix.jpg",
+        "name": "Netflix",
+        "description": "Explorez une vaste collection de films, séries et documentaires, y compris des exclusivités Netflix. Essayez Netflix maintenant pour une expérience de streaming personnalisée.",
+        "slug": "netflix"
+    },
+    {
+        "image": "/images/disney-plus.jpg",
+        "name": "Disney+",
+        "description": "Accédez aux mondes de Disney, Pixar, Marvel, Star Wars et National Geographic. Abonnez-vous à Disney+ pour des classiques et des exclusivités à toute la famille.",
+        "slug": "disneyplus"
+    },
+    {
+        "image": "/images/spotify.png",
+        "name": "Spotify",
+        "description": "Écoutez des millions de chansons et podcasts avec Spotify. Optez pour Spotify Premium pour une écoute sans publicité et hors ligne. Commencez dès aujourd'hui !",
+        "slug": "spotify"
+    },
+    {
+        "image": "/images/amazon-prime-video.jpg",
+        "name": "Amazon Prime Video",
+        "description": "Profitez d'un vaste choix de films et de séries, y compris des exclusivités Prime. Abonnez-vous à Amazon Prime Video pour des milliers de titres en streaming.",
+        "slug": "amazonprimevideo"
+    },
+    {
+        "image": "/images/apple-tv-plus.jpg",
+        "name": "Apple TV+",
+        "description": "Regardez des séries et films originaux Apple TV+. Abonnez-vous à Apple TV+ pour découvrir des contenus exclusifs et de haute qualité.",
+        "slug": "appletvplus"
+    },
+    {
+        "image": "/images/hulu.jpg",
+        "name": "Hulu",
+        "description": "Regardez des séries, films et contenus originaux sur Hulu. Abonnez-vous à Hulu pour un accès instantané à des milliers de titres, avec ou sans publicité.",
+        "slug": "hulu"
+    },
+    {
+        "image": "/images/hbo-max.jpg",
+        "name": "HBO Max",
+        "description": "Accédez à une vaste bibliothèque de films, séries et contenus exclusifs avec HBO Max. Abonnez-vous pour des heures de divertissement premium.",
+        "slug": "hbomax"
+    },
+    {
+        "image": "/images/youtube-premium.jpg",
+        "name": "YouTube Premium",
+        "description": "Profitez de YouTube sans publicités et accédez à YouTube Music Premium. Abonnez-vous à YouTube Premium pour une expérience de streaming ininterrompue.",
+        "slug": "youtubepremium"
+    }
+]
