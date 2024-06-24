@@ -1,152 +1,160 @@
-[
-  {
-    "id": "1",
-    "name": "Basic",
-    "price": {
-      "amount": 8.99,
-      "currency": "USD"
-    },
-    "duration": {
-      "value": 1,
-      "unit": "mois"
-    },
-    "features": {
-      "video_quality": "SD",
-      "resolution": "480p",
-      "audio_quality": "",
-      "bitrate": "",
-      "device_limits": {
-        "max_devices": 1,
-        "simultaneous_streams": 1
-      },
-      "offline_downloads": true,
-      "ads_included": false,
-      "exclusive_content": true,
-      "playlists": "",
-      "lyrics": ""
-    },
-    "trial_period": {
-      "available": false,
-      "duration": {
-        "value": 0,
-        "unit": "days"
-      }
-    },
-    "availability": {
-      "countries": [
-        "USA",
-        "Canada",
-        "France"
-      ],
-      "platforms": [
-        "Web",
-        "iOS",
-        "Android",
-        "SmartTV"
-      ]
-    },
-    "terms_and_conditions": "https://www.netflix.com/terms",
-    "created_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2023-06-01T00:00:00Z"
+{
+  "service": {
+    "image": "/images/netflix.jpg",
+    "name": "Netflix",
+    "description": "Explorez une vaste collection de films, séries et documentaires, y compris des exclusivités Netflix. Essayez Netflix maintenant pour une expérience de streaming personnalisée.",
+    "slug": "netflix"
   },
-  {
-    "id": "2",
-    "name": "Standard",
-    "price": {
-      "amount": 13.99,
-      "currency": "USD"
-    },
-    "duration": {
-      "value": 1,
-      "unit": "mois"
-    },
-    "features": {
-      "video_quality": "HD",
-      "resolution": "1080p",
-      "audio_quality": "",
-      "bitrate": "",
-      "device_limits": {
-        "max_devices": 2,
-        "simultaneous_streams": 2
+  "plans": [
+    {
+      "id": "1",
+      "name": "Basic",
+      "price": {
+        "amount": 8.99,
+        "currency": "USD"
       },
-      "offline_downloads": true,
-      "ads_included": false,
-      "exclusive_content": true,
-      "playlists": "",
-      "lyrics": ""
-    },
-    "trial_period": {
-      "available": false,
       "duration": {
-        "value": 0,
-        "unit": "days"
-      }
-    },
-    "availability": {
-      "countries": [
-        "USA",
-        "Canada",
-        "France"
-      ],
-      "platforms": [
-        "Web",
-        "iOS",
-        "Android",
-        "SmartTV"
-      ]
-    },
-    "terms_and_conditions": "https://www.netflix.com/terms",
-    "created_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2023-06-01T00:00:00Z"
-  },
-  {
-    "id": "3",
-    "name": "Premium",
-    "price": {
-      "amount": 17.99,
-      "currency": "USD"
-    },
-    "duration": {
-      "value": 1,
-      "unit": "mois"
-    },
-    "features": {
-      "video_quality": "Ultra HD",
-      "resolution": "4K",
-      "audio_quality": "",
-      "bitrate": "",
-      "device_limits": {
-        "max_devices": 4,
-        "simultaneous_streams": 4
+        "value": 1,
+        "unit": "mois"
       },
-      "offline_downloads": true,
-      "ads_included": false,
-      "exclusive_content": true,
-      "playlists": "",
-      "lyrics": ""
+      "features": {
+        "video_quality": "SD",
+        "resolution": "480p",
+        "audio_quality": "",
+        "bitrate": "",
+        "device_limits": {
+          "max_devices": 1,
+          "simultaneous_streams": 1
+        },
+        "offline_downloads": true,
+        "ads_included": false,
+        "exclusive_content": true,
+        "playlists": "",
+        "lyrics": ""
+      },
+      "trial_period": {
+        "available": false,
+        "duration": {
+          "value": 0,
+          "unit": "days"
+        }
+      },
+      "availability": {
+        "countries": [
+          "USA",
+          "Canada",
+          "France"
+        ],
+        "platforms": [
+          "Web",
+          "iOS",
+          "Android",
+          "SmartTV"
+        ]
+      },
+      "terms_and_conditions": "https://www.netflix.com/terms",
+      "created_at": "2023-01-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z"
     },
-    "trial_period": {
-      "available": false,
+    {
+      "id": "2",
+      "name": "Standard",
+      "price": {
+        "amount": 13.99,
+        "currency": "USD"
+      },
       "duration": {
-        "value": 0,
-        "unit": "days"
-      }
+        "value": 1,
+        "unit": "mois"
+      },
+      "features": {
+        "video_quality": "HD",
+        "resolution": "1080p",
+        "audio_quality": "",
+        "bitrate": "",
+        "device_limits": {
+          "max_devices": 2,
+          "simultaneous_streams": 2
+        },
+        "offline_downloads": true,
+        "ads_included": false,
+        "exclusive_content": true,
+        "playlists": "",
+        "lyrics": ""
+      },
+      "trial_period": {
+        "available": false,
+        "duration": {
+          "value": 0,
+          "unit": "days"
+        }
+      },
+      "availability": {
+        "countries": [
+          "USA",
+          "Canada",
+          "France"
+        ],
+        "platforms": [
+          "Web",
+          "iOS",
+          "Android",
+          "SmartTV"
+        ]
+      },
+      "terms_and_conditions": "https://www.netflix.com/terms",
+      "created_at": "2023-01-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z"
     },
-    "availability": {
-      "countries": [
-        "USA",
-        "Canada",
-        "France"
-      ],
-      "platforms": [
-        "Web",
-        "iOS",
-        "Android",
-        "SmartTV"
-      ]
-    },
-    "terms_and_conditions": "https://www.netflix.com/terms",
-    "created_at": "2023-01-01T00:00:00Z",
-    "updated_at": "2023-06-01T00:00:00Z"
-  }
-]
+    {
+      "id": "3",
+      "name": "Premium",
+      "price": {
+        "amount": 17.99,
+        "currency": "USD"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "mois"
+      },
+      "features": {
+        "video_quality": "Ultra HD",
+        "resolution": "4K",
+        "audio_quality": "",
+        "bitrate": "",
+        "device_limits": {
+          "max_devices": 4,
+          "simultaneous_streams": 4
+        },
+        "offline_downloads": true,
+        "ads_included": false,
+        "exclusive_content": true,
+        "playlists": "",
+        "lyrics": ""
+      },
+      "trial_period": {
+        "available": false,
+        "duration": {
+          "value": 0,
+          "unit": "days"
+        }
+      },
+      "availability": {
+        "countries": [
+          "USA",
+          "Canada",
+          "France"
+        ],
+        "platforms": [
+          "Web",
+          "iOS",
+          "Android",
+          "SmartTV"
+        ]
+      },
+      "terms_and_conditions": "https://www.netflix.com/terms",
+      "created_at": "2023-01-01T00:00:00Z",
+      "updated_at": "2023-06-01T00:00:00Z"
+    }
+  ]
+}
