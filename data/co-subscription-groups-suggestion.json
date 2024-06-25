@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "service": {
+            "name": "Netflix"
+        },
+        "plan": {
+            "name": "Premium",
+            "price": 15.99,
+            "currency": "USD"
+        },
+        "current_members": 3,
+        "desired_members": 4
+    },
+    {
+        "id": "2",
+        "service": {
+            "name": "Disney+"
+        },
+        "plan": {
+            "name": "Standard",
+            "price": 7.99,
+            "currency": "USD"
+        },
+        "current_members": 2,
+        "desired_members": 4
+    },
+    {
+        "id": "3",
+        "service": {
+            "name": "Spotify"
+        },
+        "plan": {
+            "name": "Famille",
+            "price": 14.99,
+            "currency": "USD"
+        },
+        "current_members": 5,
+        "desired_members": 6
+    },
+    {
+        "id": "4",
+        "service": {
+            "name": "Amazon Prime Vidéo"
+        },
+        "plan": {
+            "name": "Prime",
+            "price": 12.99,
+            "currency": "USD"
+        },
+        "current_members": 1,
+        "desired_members": 3
+    },
+    {
+        "id": "5",
+        "service": {
+            "name": "Apple Music"
+        },
+        "plan": {
+            "name": "Famille",
+            "price": 14.99,
+            "currency": "USD"
+        },
+        "current_members": 4,
+        "desired_members": 5
+    }
+]

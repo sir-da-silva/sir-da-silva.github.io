@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "desired_members": 4,
+    "creator": {
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "email": "alice.smith@example.com"
+    },
+    "members": [
+        {
+            "first_name": "Bob",
+            "last_name": "Johnson",
+            "email": "bob.johnson@example.com"
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Brown",
+            "email": "charlie.brown@example.com"
+        },
+        {
+            "first_name": "Dave",
+            "last_name": "Wilson",
+            "email": "dave.wilson@example.com"
+        }
+    ]
+}
